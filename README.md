@@ -95,3 +95,10 @@ contract JointSavings {
 
     }
 }
+
+## Sent 1 Wei
+![hOMEWORK](1wei.PNG)
+## Sent 10 Wei
+![hOMEWORK](10wei.PNG)
+## Sent 5 Ether
+![hOMEWORK](5ether.PNG)
